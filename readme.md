@@ -8,3 +8,4 @@ Jupyter notebooks criados durante o curso de análise de dados com Python dispon
 * [Aula 01](https://youtu.be/W_Bz7M91R1Q)
 * [Aula 02](https://youtu.be/2oZHg3HOtcY)
 * [Aula 03](https://youtu.be/zpNtiJsJ7KY)
+* [Aula 04](https://youtu.be/hyDvL_CzbX4)
